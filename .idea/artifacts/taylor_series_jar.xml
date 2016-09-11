@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="taylor series:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/taylor_series_jar</output-path>
+    <root id="archive" name="taylor series.jar">
+      <element id="module-output" name="taylor series" />
+    </root>
+  </artifact>
+</component>
